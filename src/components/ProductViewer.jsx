@@ -2,7 +2,7 @@ import '../App.css'
 import ThreeSixty from "react-360-view";
 
 const ProductViewer = () => {
-    const basePath = "src/assets";
+    const basePath = "assets";
   return (
     <div className="app">
             <ThreeSixty
